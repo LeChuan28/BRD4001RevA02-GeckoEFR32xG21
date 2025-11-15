@@ -1,0 +1,1 @@
+Develop an application to measure DMA transfer time from memory to UART using three data sizes: 10, 100, and 1000 bytes. The EFR32xG21 will generate arbitrary data, receive a measurement command via UART, and reply with the generated data and the DMA transfer time.
